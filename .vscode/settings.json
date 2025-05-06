@@ -3,6 +3,8 @@
     "annot",
     "cmap",
     "figsize",
+    "imblearn",
+    "proba",
     "xlabel",
     "xticklabels",
     "ylabel",
